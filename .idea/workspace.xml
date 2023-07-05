@@ -1,0 +1,247 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="f45381d5-0072-41e6-893b-e8ff7d2bada0" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="2LOlQMnB30IPc5A11GE2i7GtvXn" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="jdk.selected.JAVA_MODULE" value="1.8" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RunManager" selected="Application.KMP">
+    <configuration name="Climbing_stairs" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Week2.Climbing_stairs" />
+      <module name="March" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Week2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Container_With_Most_Water" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Week3.Container_With_Most_Water" />
+      <module name="March" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Week3.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="KMP" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Week1.KMP" />
+      <module name="February" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Week1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Ransom_Letter" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Week3.Ransom_Letter" />
+      <module name="February" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Week3.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="test (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="week1.test" />
+      <module name="May" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="week1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.KMP" />
+        <item itemvalue="Application.test (1)" />
+        <item itemvalue="Application.Climbing_stairs" />
+        <item itemvalue="Application.Container_With_Most_Water" />
+        <item itemvalue="Application.Ransom_Letter" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f45381d5-0072-41e6-893b-e8ff7d2bada0" name="Default Changelist" comment="" />
+      <created>1675749992640</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1675749992640</updated>
+      <workItem from="1675749999751" duration="3306000" />
+      <workItem from="1675754796416" duration="2990000" />
+      <workItem from="1675763034714" duration="823000" />
+      <workItem from="1675767744841" duration="13173000" />
+      <workItem from="1675818989971" duration="38550000" />
+      <workItem from="1675922607536" duration="13000" />
+      <workItem from="1675924649130" duration="9717000" />
+      <workItem from="1675941921679" duration="5361000" />
+      <workItem from="1675950786189" duration="532000" />
+      <workItem from="1675991271772" duration="3816000" />
+      <workItem from="1676000374316" duration="8048000" />
+      <workItem from="1676016804963" duration="7053000" />
+      <workItem from="1676034807899" duration="2955000" />
+      <workItem from="1676077844759" duration="5188000" />
+      <workItem from="1676095776848" duration="7582000" />
+      <workItem from="1676115488200" duration="4447000" />
+      <workItem from="1676127829067" duration="1146000" />
+      <workItem from="1676252219332" duration="675000" />
+      <workItem from="1676270125963" duration="1341000" />
+      <workItem from="1676293590424" duration="3643000" />
+      <workItem from="1676336679620" duration="1365000" />
+      <workItem from="1676347171104" duration="1199000" />
+      <workItem from="1676360446518" duration="11079000" />
+      <workItem from="1676427755846" duration="778000" />
+      <workItem from="1676444273471" duration="8908000" />
+      <workItem from="1676466416585" duration="382000" />
+      <workItem from="1676466815273" duration="11000" />
+      <workItem from="1676545924574" duration="753000" />
+      <workItem from="1676548039647" duration="3715000" />
+      <workItem from="1676551934994" duration="721000" />
+      <workItem from="1676552754629" duration="6356000" />
+      <workItem from="1676597850562" duration="21000" />
+      <workItem from="1676614152014" duration="1932000" />
+      <workItem from="1676620348897" duration="7487000" />
+      <workItem from="1676627924901" duration="87000" />
+      <workItem from="1676628069430" duration="83000" />
+      <workItem from="1676632360050" duration="17000" />
+      <workItem from="1676727477368" duration="30000" />
+      <workItem from="1676727516973" duration="1000" />
+      <workItem from="1676732498779" duration="176000" />
+      <workItem from="1676875374716" duration="1402000" />
+      <workItem from="1676959772972" duration="18835000" />
+      <workItem from="1677050832559" duration="5269000" />
+      <workItem from="1677068882570" duration="426000" />
+      <workItem from="1677132060674" duration="2257000" />
+      <workItem from="1677135119994" duration="79000" />
+      <workItem from="1677157347818" duration="788000" />
+      <workItem from="1677159760819" duration="3228000" />
+      <workItem from="1677248272533" duration="771000" />
+      <workItem from="1677324322408" duration="8833000" />
+      <workItem from="1677384382048" duration="1537000" />
+      <workItem from="1677485698105" duration="1285000" />
+      <workItem from="1677488247026" duration="1899000" />
+      <workItem from="1677496094352" duration="7000" />
+      <workItem from="1677499864288" duration="1014000" />
+      <workItem from="1677501043781" duration="4299000" />
+      <workItem from="1677668795183" duration="7064000" />
+      <workItem from="1677826319655" duration="243000" />
+      <workItem from="1678112584317" duration="288000" />
+      <workItem from="1678169120421" duration="209000" />
+      <workItem from="1678169633418" duration="460000" />
+      <workItem from="1678410244666" duration="102000" />
+      <workItem from="1678449248397" duration="4509000" />
+      <workItem from="1678517016412" duration="28000" />
+      <workItem from="1678860547518" duration="3305000" />
+      <workItem from="1678879404302" duration="5963000" />
+      <workItem from="1679485546697" duration="69000" />
+      <workItem from="1681194740296" duration="248000" />
+      <workItem from="1682042883775" duration="1024000" />
+      <workItem from="1683371050149" duration="2221000" />
+      <workItem from="1684462267338" duration="48000" />
+      <workItem from="1684462328790" duration="30000" />
+      <workItem from="1684462421490" duration="3000" />
+      <workItem from="1686573910751" duration="596000" />
+      <workItem from="1688542718162" duration="42000" />
+      <workItem from="1688542763101" duration="163000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1663" height="289" key="GridCell.Tab.0.bottom" timestamp="1684462316681">
+      <screen x="0" y="0" width="1707" height="1027" />
+    </state>
+    <state width="1663" height="289" key="GridCell.Tab.0.bottom/0.0.1707.1027/2560.355.1920.1040@0.0.1707.1027" timestamp="1684462316681" />
+    <state width="1877" height="47" key="GridCell.Tab.0.bottom/0.0.1707.1027/2560.355.1920.1040@2560.355.1920.1040" timestamp="1683374650662" />
+    <state width="1663" height="289" key="GridCell.Tab.0.center" timestamp="1684462316681">
+      <screen x="0" y="0" width="1707" height="1027" />
+    </state>
+    <state width="1663" height="289" key="GridCell.Tab.0.center/0.0.1707.1027/2560.355.1920.1040@0.0.1707.1027" timestamp="1684462316681" />
+    <state width="1877" height="47" key="GridCell.Tab.0.center/0.0.1707.1027/2560.355.1920.1040@2560.355.1920.1040" timestamp="1683374650662" />
+    <state width="1663" height="289" key="GridCell.Tab.0.left" timestamp="1684462316680">
+      <screen x="0" y="0" width="1707" height="1027" />
+    </state>
+    <state width="1663" height="289" key="GridCell.Tab.0.left/0.0.1707.1027/2560.355.1920.1040@0.0.1707.1027" timestamp="1684462316680" />
+    <state width="1877" height="47" key="GridCell.Tab.0.left/0.0.1707.1027/2560.355.1920.1040@2560.355.1920.1040" timestamp="1683374650661" />
+    <state width="1663" height="289" key="GridCell.Tab.0.right" timestamp="1684462316681">
+      <screen x="0" y="0" width="1707" height="1027" />
+    </state>
+    <state width="1663" height="289" key="GridCell.Tab.0.right/0.0.1707.1027/2560.355.1920.1040@0.0.1707.1027" timestamp="1684462316681" />
+    <state width="1877" height="47" key="GridCell.Tab.0.right/0.0.1707.1027/2560.355.1920.1040@2560.355.1920.1040" timestamp="1683374650662" />
+    <state x="334" y="88" key="SettingsEditor" timestamp="1688542861858">
+      <screen x="0" y="0" width="1707" height="1027" />
+    </state>
+    <state x="334" y="88" key="SettingsEditor/0.0.1707.1027/2560.355.1920.1040@0.0.1707.1027" timestamp="1688542861858" />
+    <state x="2912" y="446" key="new project wizard" timestamp="1683371108708">
+      <screen x="2560" y="355" width="1920" height="1040" />
+    </state>
+    <state x="2912" y="446" key="new project wizard/0.0.1707.1027/2560.355.1920.1040@2560.355.1920.1040" timestamp="1683371108708" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/LeetcodePractice$Consolidation_interval.ic" NAME="Consolidation_interval Coverage Results" MODIFIED="1675780718773" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>Week01.*</FILTER>
+    </SUITE>
+  </component>
+</project>
